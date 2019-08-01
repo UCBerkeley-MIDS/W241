@@ -44,7 +44,7 @@ We hope that each student who completes the course will:
 
 Computing is conducted primarily in R.
 
-If you are looking to work on something over the break, between semesters, I [[https://www.datacamp.com/courses/data-table-data-manipulation-r-tutorial][recommend this]] course on `data.table`, created by the package author, and available for free at datacamp. 
+If you are looking to work on something over the break, between semesters, I [[https://www.datacamp.com/courses/data-table-data-manipulation-r-tutorial][recommend this]] course on `data.table`, created by the package author Matthew Dowle, and available for free at datacamp. 
 
 ** Compute Enviornment 
 This semester we're using the [[http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/UCB-MIDS/w241&branch=master&urlpath=rstudio][UCB Datahub]] as our compute backbone. You can get to it [[http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/UCB-MIDS/w241&branch=master&urlpath=rstudio][here]]. This is a minimal instance -- you're capped at 1GB memory, but it is a really nice way to work on async coding without having to start any machinery of your own. You should be able to knit, save, and edit as you like. The courses' upstream repository is /entirely/ segmented from your copy of this, so feel free to make any changes that you want. Note, however, that this also means that changes you make in the datahub will /not/ be present on your own fork of the repository. In other words, things that happen in the datahub, stay in the data hub. 
@@ -77,5 +77,5 @@ We use two books in this course, and read a third book in the second week. We re
   - We encourage you to work together on problem sets, because great learning can come out of helping each other get unstuck.  We ask that each person independently prepare his or her own problem-set writeup, to demonstrate that you have thought through the ideas and calculations and can explain them on your own.  This includes making sure you run any code yourself and can explain how it works.   Collaboration is encouraged, but mere copying will be treated as academic dishonesty.
   - At this point, the course has lived for a number of semesters, and we have shared solution sets each semester. We note in particular that struggling with the problems is a key part of the learning in this course.  Copying from past solutions constitutes academic dishonesty and will be punished as such; you should know that we have included language in the solutions that will make it clear when something has been merely copied rather than understood.
 - *Essays* (20%, 10% each) 
-- *Class Experiment* (25%) In teams of 3-5 studetns, carry out a pilot experiment that measures a causal effect of interest. 
+- *Class Experiment* (25%) In teams of 3-5 students, carry out an experiment that measures a causal effect of interest. See the `./finalProject/` folder for much more information 
 - *Experiment Pilot Data* (5%) Pilot data analysis of distribution of outcome variable and covariate balance check 
